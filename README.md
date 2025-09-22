@@ -1,4 +1,4 @@
-# SQL Playbook — Lyna Zitouche
+# SQL Playbook 
 
 A practical, interview-ready collection of SQL patterns and case studies.
 
